@@ -1,8 +1,8 @@
 # Primeros Algoritmos en Python
-## Calculadora de descuentos
-** Mi primer proyecto en Python **
-Este programa simple pide el precio de un producto y un porcentaje de descuento, y calcula:
--El precio final a pagar
+## Hola
+** hola **
+Este programa simple pide tu nombre y tu edad dando como mensaje:
+-Hola (nombre) tu edad es (edad) años
 
  ### Tecnologias
  -Python
